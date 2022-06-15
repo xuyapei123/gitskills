@@ -1,1 +1,3 @@
 # gitskills
+
+clone remote!
